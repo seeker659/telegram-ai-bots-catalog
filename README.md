@@ -1,4 +1,4 @@
-# Global Catalog of Active AI Bots on Telegram
+# Catalog of Active AI Bots on Telegram
 
 **Total bots in catalog:** 207
 
